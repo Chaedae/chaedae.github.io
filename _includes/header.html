@@ -1,0 +1,16 @@
+<aside class="logo">
+
+	{% if page.url == '/index.html' or page.url == '/' %}
+		{% assign link = '/about' %}
+		{% assign prompt = 'About the Author' %}
+	{% else %}
+		{% assign link = '/' %}
+		{% assign prompt = 'Back to Home' %}
+	{% endif %}
+
+	<a href="{{ link | prepend: site.baseurl }}">
+		<img src="https://img1.daumcdn.net/thumb/C428x244/?fname=https%3A%2F%2Ftistory3.daumcdn.net%2Ftistory%2F1604129%2Fattach%2Fde504d913d7f427a9c6b10825e7f34e1" class="gravatar" style="margin-top:0; height:90px;">
+	</a>
+	<span class="logo-prompt">{{ prompt }}</span>
+
+</aside>
