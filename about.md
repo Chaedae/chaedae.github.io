@@ -7,6 +7,6 @@ Hello.
 
 This web site is under construction..
 
-Blog : <http://chaedae.tistory.com>
-Email : <chaedae0@gmail.com>
-Git : <https://github.com/chaedae>
+Email : <chaedae0@gmail.com> <br />
+Blog : <http://chaedae.tistory.com> <br />
+Git : <https://github.com/chaedae> <br />
