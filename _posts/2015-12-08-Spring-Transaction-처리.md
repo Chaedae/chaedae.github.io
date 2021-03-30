@@ -3,7 +3,7 @@ title: Spring Transaction 처리
 author: ChaeDae
 date: 2015-12-02 15:03:00 +0800
 categories: [Java, Spring]
-tags: [JAVA, Spring, Transaction]
+tags: [Java, Spring, Transaction]
 ---
 
 SPRING + MAVEN + MyBatis로 되어 있는 프레임워크로 프로젝트를 진행하던 중 트랜잭션 관련된 이슈가 생겨서 글로 남겨둔다.

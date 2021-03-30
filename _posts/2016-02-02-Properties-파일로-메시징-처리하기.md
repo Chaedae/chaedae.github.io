@@ -3,7 +3,7 @@ title: Properties 파일로 메시징 처리하기
 author: ChaeDae
 date: 2016-02-02 15:03:00 +0800
 categories: [Java, Spring]
-tags: [JAVA, Spring, Message]
+tags: [Java, Spring, Message]
 ---
 
 프로젝트 진행중에 엑셀 다운로드를 하는 부분이 있었는데 컬럼명이 한글이다 보니 다국어 처리를 하게 되었다.

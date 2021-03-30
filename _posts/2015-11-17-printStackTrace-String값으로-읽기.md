@@ -3,7 +3,7 @@ title: printStackTrace String값으로 읽기
 author: ChaeDae
 date: 2015-11-17 19:52:00 +0800
 categories: [Java, Log]
-tags: [JAVA, Log, Exception]
+tags: [Java, Log, Exception]
 ---
 
 로그 파일을 분리해서 로그를 남기기는 했는데..
@@ -17,7 +17,7 @@ printStackTrace를 그대로 뿌려주면 안되나 했는데 될리가 있나..
 
 그래서 찾은 해법..
 
-일단 지난번 했던 [로그파일분리](/posts/Log4j-로그파일-분리) 에서 사용했던 메소드를 재활용해보자..
+일단 지난번 했던 [로그파일분리](/posts/Log4j-로그파일-분리){:target="_blank"} 에서 사용했던 메소드를 재활용해보자..
 
 ```java
 // Properties load 
