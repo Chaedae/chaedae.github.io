@@ -6,6 +6,8 @@ categories: [Java, Spring]
 tags: [Java, Spring, Gradle, 환경설정]
 ---
 
+_<<Tistory 블로그에서 작성했던 글>>_
+
 이직도 준비할 겸 생각만 하고 있던 개인프로젝트를 진행했다.
 
 이번 포스팅은 개인 프로젝트 개발환경 만들기다.
@@ -48,28 +50,28 @@ Gradle 프로젝트 생성을 위해서 Gradle Plugin을 설치하자.
 
 Help -> Eclipse Marketplace.. 클릭
 
-![Setting Image1](/assets/img/posts/20171124-1.png){:width="400px" height="419px"}
+![Setting Image1](/assets/img/posts/tistory/20171124-1.png){:width="400px" height="419px"}
 
 Gradle을 검색하면, 코끼리 모양의 Buildship 어쩌구 하는게 있다.  
 이게 gradle plugin이다. Install 버튼을 눌러서 설치.
 
-![Setting Image2](/assets/img/posts/20171124-2.png){:width="500px" height="316px"}
+![Setting Image2](/assets/img/posts/tistory/20171124-2.png){:width="500px" height="316px"}
 
 설치가 끝나면 STS를 재시작 해준다.
 
 재시작 후 이제 프로젝트를 생성해보자.
 
-![Setting Image3](/assets/img/posts/20171124-3.png){:width="500px" height="254px"}
+![Setting Image3](/assets/img/posts/tistory/20171124-3.png){:width="500px" height="254px"}
 
-![Setting Image4](/assets/img/posts/20171124-4.png){:width="500px" height="469px"}
+![Setting Image4](/assets/img/posts/tistory/20171124-4.png){:width="500px" height="469px"}
 
 프로젝트명과 워크스페이스 위치를 확인하고 Next..
 
-![Setting Image5](/assets/img/posts/20171124-5.png){:width="500px" height="492px"}
+![Setting Image5](/assets/img/posts/tistory/20171124-5.png){:width="500px" height="492px"}
 
 Repositories 가 저장될 경로를 선택해주고 Finish
 
-![Setting Image6](/assets/img/posts/20171124-6.png){:width="500px" height="485px"}
+![Setting Image6](/assets/img/posts/tistory/20171124-6.png){:width="500px" height="485px"}
 
 > ------------------------------------------------------------------------------------------------------------------
 > 아.. 맥에서 세팅을 해보는데 계속 **Could not determine java version from '9.0.1' ** 에러가 나서 삽질을 반복하다가..    
@@ -84,7 +86,7 @@ Repositories 가 저장될 경로를 선택해주고 Finish
 
 정상적으로 생성이 되었다면 아래와 같이 나온다.
 
-![Setting Image7](/assets/img/posts/20171124-7.png){:width="500px" height="574px"}
+![Setting Image7](/assets/img/posts/tistory/20171124-7.png){:width="500px" height="574px"}
 
 이제 이 JAVA 프로젝트를 Spring MVC 프로젝트로 변경을 시켜보자.
 
@@ -173,7 +175,7 @@ _Gradle에 대해 자세히 알고 싶으신분은 [권남](http://kwonnam.pe.kr
 
 이제 설정 정보를 적용해보자.
 
-![Setting Image8](/assets/img/posts/20171124-8.png){:width="500px" height="470px"}
+![Setting Image8](/assets/img/posts/tistory/20171124-8.png){:width="500px" height="470px"}
 
 refresh를 하면 위에서 지정했던 로컬의 repositories 경로에 필요한 파일들을 다운로드 한다.
 
@@ -208,9 +210,9 @@ refresh를 하면 위에서 지정했던 로컬의 repositories 경로에 필요
 
 이제 Gradle Task에서 Build를 진행 해보자.
 
-![Setting Image9](/assets/img/posts/20171124-9.png){:width="500px" height="245px"}
+![Setting Image9](/assets/img/posts/tistory/20171124-9.png){:width="500px" height="245px"}
 
-![Setting Image10](/assets/img/posts/20171124-10.png){:width="500px" height="298px"}
+![Setting Image10](/assets/img/posts/tistory/20171124-10.png){:width="500px" height="298px"}
 
 정상적으로 빌드가 완료되는 것을 확인할 수 있다.
 

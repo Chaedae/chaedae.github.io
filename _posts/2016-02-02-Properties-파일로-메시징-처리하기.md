@@ -6,6 +6,8 @@ categories: [Java, Spring]
 tags: [Java, Spring, Message]
 ---
 
+_<<Tistory 블로그에서 작성했던 글>>_
+
 프로젝트 진행중에 엑셀 다운로드를 하는 부분이 있었는데 컬럼명이 한글이다 보니 다국어 처리를 하게 되었다.
 
 JAVA단에 한글 넣는것은 극도로 꺼리기 때문에 (주석도 최대한 영어로 적는다.)

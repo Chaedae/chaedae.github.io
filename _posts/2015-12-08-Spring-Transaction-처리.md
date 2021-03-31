@@ -6,6 +6,8 @@ categories: [Java, Spring]
 tags: [Java, Spring, Transaction]
 ---
 
+_<<Tistory 블로그에서 작성했던 글>>_
+
 SPRING + MAVEN + MyBatis로 되어 있는 프레임워크로 프로젝트를 진행하던 중 트랜잭션 관련된 이슈가 생겨서 글로 남겨둔다.
 
 

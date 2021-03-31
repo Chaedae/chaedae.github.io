@@ -6,6 +6,8 @@ categories: [Java, Log]
 tags: [Java, Log, Exception]
 ---
 
+_<<Tistory 블로그에서 작성했던 글>>_
+
 로그 파일을 분리해서 로그를 남기기는 했는데..
 
 Exception에서 제공해주는 getMessage()를 사용해서 로그를 남겼더니 정보가 너무 부족했다..
