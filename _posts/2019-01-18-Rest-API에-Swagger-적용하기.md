@@ -2,8 +2,8 @@
 title: RestAPI에 Swagger 적용하기
 author: ChaeDae
 date: 2019-01-18 19:52:00 +0800
-categories: [Java, Api]
-tags: [Java, Spring, Swagger, rest, Api]
+categories: [Java, API]
+tags: [Java, Spring, Swagger, rest, API]
 ---
 
 _<<Tistory 블로그에서 작성했던 글>>_
