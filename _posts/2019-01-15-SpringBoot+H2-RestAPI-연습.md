@@ -3,7 +3,7 @@ title: Spring Boot + H2 Rest API
 author: ChaeDae
 date: 2019-01-15 19:52:00 +0800
 categories: [Java, Spring]
-tags: [Java, Spring, SpringBoot, h2, rest, Api]
+tags: [Java, Spring, SpringBoot, h2, rest, API]
 ---
 
 _<<Tistory 블로그에서 작성했던 글>>_
